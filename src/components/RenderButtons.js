@@ -4,10 +4,6 @@ import BlankButton from './BlankButton';
 
 class RenderButtons extends React.Component {
 
-    constructor(props) {
-        super(props);
-    }
-
     render() {
         const {editFieldValue} = this.props;
         let keyNum = 0;
