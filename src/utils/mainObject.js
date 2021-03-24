@@ -75,7 +75,7 @@ const mainObject = [
         label: 'CE',
         empty: false,
         color: 'secondary',
-        operation: 'addOperation:limpiar',
+        operation: 'clean:all',
     },
     {
         label: '0',
@@ -87,7 +87,7 @@ const mainObject = [
         label: '=',
         empty:false,
         color: 'secondary',
-        operation: 'addOperation:igualA',
+        operation: 'getResult:result',
     },
     {
         label: '/',
