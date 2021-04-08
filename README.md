@@ -1,10 +1,23 @@
 # PRACTICA REACT
 
-Proyecto de prueba React
+Este es un proyecto de aprendizaje sobre React, consiste en realizar una calculadora básica.
+
+## Prerequisistos
+
+Debe contar con nodejs instalado
 
 ## Instrucciones
 
-1. Clonar repositorio
-2. Ingresar a la carpeta: cd practica-react
-3. Ejecutar: npm install
-4. Ejecutar: npm run start
+###### Clonar repositorio
+```
+git clone https://github.com/felip2018/practica-react.git
+```
+###### Ejecutar el proyecto
+
+Ejecutar los siguientes comandos para ejecutar el proyecto
+
+```
+cd practica-react
+npm install
+npm run start
+```
